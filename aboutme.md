@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: The gist about ScoShi
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is ScoShi. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am an instructional designer by trade
+- I dabble with code. Check out my projects page 😉
 
 What else do you need?
 
